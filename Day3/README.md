@@ -1,5 +1,10 @@
 # Day3題解OuO
 
+https://vjudge.net/contest/210927
+https://hackmd.io/s/r1QBrXbLf
+https://hackmd.io/s/S1z0sc-8G
+
+
 <style type="text/css">
     ol { list-style-type: upper-alpha; }
 </style>
