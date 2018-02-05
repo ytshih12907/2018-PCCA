@@ -65,7 +65,7 @@ int main()
         cout << sum << "\n";
 
         cout << ss.str();
-        if(r)
+        if (r)
             cout << "\n";
     }
 }
